@@ -20,7 +20,7 @@
     <img align='center' alt='' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
 </div><br/><br/>
 
-Apaixonado pela área de Front-End, tecnologias, jogos, basquete e estudar programação.
+Apaixonado por códigos, tecnologias, jogos, basquete e estudar programação.
 
 ## Atualmente estudando:
 <div style='display: inline-block '><br/>
