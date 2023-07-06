@@ -27,5 +27,5 @@ Apaixonado por códigos, tecnologias, jogos, basquete e estudar programação.
      <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' />
     <img alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
 </div><br/>
-Para entender melhor a interação com o Back-end, escolhi me aprofundar um pouco pelas tecnologias server-side.
-Futuramente pretendo estudar <strong>Jquery</strong>, <strong>SASS</strong>, <strong>TypeScript</strong> e <strong>React</strong>. 
+Para me tornar um bom programador Back-end, escolhi me aprofundar nos estudos de PHP e MySQL.
+Futuramente pretendo estudar <strong>Slim</strong>, <strong>Laravel</strong>, <strong>WP</strong> e <strong>NoSQL</strong>. 
